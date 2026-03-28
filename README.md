@@ -55,7 +55,7 @@ coffee-shop-website/
 1️⃣ Clone the repository
 
 ```bash
-
+https://github.com/btwitsprince/coffee-website-.git
 ```
 
 2️⃣ Open the project
